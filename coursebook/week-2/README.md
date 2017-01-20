@@ -3,9 +3,7 @@
 For mentors to insert the schedule for the week including specific timelines for each day + links to the
 workshops & morning challenges to be used. Plus a menu to each item of the folder.
 
-### Schedule
-
-#### Monday
+### Monday
 
 10:00 - 11:00
 - Intro to testing and QUnit
@@ -20,7 +18,7 @@ workshops & morning challenges to be used. Plus a menu to each item of the folde
 16:00 - 18:00
 - Business development / community engagement
 
-#### Tuesday
+### Tuesday
 
 10:00 - 11:00
 - Morning Challenge - Callbacks (we will create/borrow/steal one)
@@ -31,7 +29,7 @@ workshops & morning challenges to be used. Plus a menu to each item of the folde
 14:00 - 18:00
 - READMEs
 
-#### Wednesday
+### Wednesday
 
 10:00 - 11:00
 - morning challenge - waterfall functions
@@ -39,7 +37,7 @@ workshops & morning challenges to be used. Plus a menu to each item of the folde
 11:00 - 18:00
 - Start projects
 
-####Thursday
+### Thursday
 
 10:00 - 16:00
 - Group projects
@@ -47,7 +45,7 @@ workshops & morning challenges to be used. Plus a menu to each item of the folde
 16:00 - 17:00
 - Huw Davies talk on testing
 
-#### Friday
+### Friday
 
 10:00 -11:00
 - Code review
