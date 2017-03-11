@@ -9,8 +9,7 @@
 & [Node Intro Workshop](https://github.com/bradreeder/Node-Intro-Workshop)
 
 - 14:00 - 16:00
--- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (CMS steps at the end are *optional*) -   
-**NOTE TO MENTOR** workshop has been improved following feedback from F&C9 and master branch is up-to-date
+-- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (CMS steps at the end are *optional*)
 
 - 16:00 - 18:00
 -- Business development
